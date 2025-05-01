@@ -15,8 +15,7 @@
 
 - 🌱 I’m currently learning **Java, Python, Frameworks**
 
-- 🎓 Sapthagiri College Of Engineering, Bengaluru
--  **Computer Science and Engineering**
+- 🎓 Sapthagiri College Of Engineering, Bengaluru, **Computer Science and Engineering**
 
 - 📫 How to reach me? **aryanrs.official@gmail.com**
 
