@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj Singh</h1>
-<h3 align="center">Aspiring Software Developer with a strong foundation in Python, Java, data analysis, and machine learning.</h3>
+<h3 align="center">Aspiring Software Developer with a strong foundation in Python, Java, Data Analysis, and Machine Learning.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aryan2619&label=Profile%20views&color=0e75b6&style=flat" alt="aryan2619" /> 
@@ -95,7 +95,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2619&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<!-- GitHub Streak Stats -->
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aryan2619&theme=default" alt="GitHub Streak" />
-</p>
