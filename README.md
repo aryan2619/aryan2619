@@ -2,7 +2,7 @@
   <img src="https://github.com/aryan2619/aryan2619/blob/main/GitHub%20Image.png" alt="Aryan Raj Singh Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Aryan Raj Singh</h1>
-<h3 align="center">Aspiring Software Developer with a strong foundation in Python, Java, Data Analysis, and Machine Learning.</h3>
+<h3 align="center">Aspiring Data Analyst with a strong foundation in Python, Java, Power BI, Data Analysis, and Machine Learning.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aryan2619&label=Profile%20views&color=0e75b6&style=flat" alt="aryan2619" /> 
